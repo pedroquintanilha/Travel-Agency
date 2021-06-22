@@ -5,7 +5,7 @@ In this project I pretended to work in a travel agency in Berlin.
 
 There were 5 places available for Germans from Hamburg, Munich or Berlin to travel.
 
-To register for the trip, the person had to enter the city they live in and the chosen hotel in Berlin, if that person was not a Berliner.
+To register for the trip, the person had to enter the city they live in, name, email and the chosen hotel in Berlin, if that person was not a Berliner.
 
 Among those from Hamburg and Munich who chose a hotel in Berlin, a hotel was randomly chosen and therefore a person who chose that hotel was also randomly chosen to receive a discount.
 
